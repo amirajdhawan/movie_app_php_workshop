@@ -20,7 +20,7 @@
 	"buffers":
 	[
 		{
-			"file": "listing.htm",
+			"file": "listing.php",
 			"settings":
 			{
 				"buffer_size": 1463,
@@ -72,6 +72,8 @@
 	},
 	"file_history":
 	[
+		"/opt/lampp/apache2/conf/httpd.conf",
+		"/opt/lampp/htdocs/listing.htm",
 		"/opt/lampp/htdocs/php.sublime-project",
 		"/home/amiraj/Desktop/Workshop/electroartworkshops.in/workshops.html",
 		"/home/amiraj/Desktop/Workshop/electroartworkshops.in/projects.html",
@@ -118,6 +120,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"bootstrap/",
 			"../assets/",
 			"appin",
 			"slide",
@@ -130,6 +133,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"twitter_bootstrap/",
 			"bootstrap/",
 			"contactus.html"
 		],
@@ -147,7 +151,7 @@
 			[
 				{
 					"buffer": 0,
-					"file": "listing.htm",
+					"file": "listing.php",
 					"settings":
 					{
 						"buffer_size": 1463,
@@ -157,18 +161,17 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								273,
+								273
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 186.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

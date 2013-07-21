@@ -1,0 +1,237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "listing.htm",
+			"settings":
+			{
+				"buffer_size": 1463,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/opt/lampp/htdocs/php.sublime-project",
+		"/home/amiraj/Desktop/Workshop/electroartworkshops.in/workshops.html",
+		"/home/amiraj/Desktop/Workshop/electroartworkshops.in/projects.html",
+		"/home/amiraj/Desktop/Workshop/electroartworkshops.in/index.html",
+		"/home/amiraj/Desktop/Workshop/electroartworkshops.in/kits.html",
+		"/home/amiraj/Desktop/Workshop/electroartworkshops.in/contactus.html",
+		"/home/amiraj/Desktop/Workshop/electroartworkshops.in/css/dropdown.css",
+		"/media/Amiraj/TV Shows/Friends/Season 6/NFO",
+		"/home/amiraj/Desktop/Workshop/electroartworkshops.in/css/style.css",
+		"/home/amiraj/Desktop/buddymeter/utils.php",
+		"/home/amiraj/Desktop/buddymeter/Readme.md",
+		"/media/Amiraj/Comics/The Invisibles/Invisibles review.txt",
+		"/home/amiraj/Desktop/buddymeter/index.php",
+		"/home/amiraj/Desktop/buddymeter/AppInfo.php",
+		"/home/amiraj/Desktop/Workshop/electroartworkshops.in/engg_workshops.html",
+		"/home/amiraj/Desktop/Workshop/electroartworkshops.in/test.html",
+		"/home/amiraj/Desktop/Workshop/electroartworkshops.in/pricing.html",
+		"/home/amiraj/Desktop/Workshop/Website/Colorbox/colorbox-master/README.md",
+		"/home/amiraj/Desktop/Workshop/Website/untitled.sublime-project",
+		"/home/amiraj/Desktop/Workshop/Website/Main/index.html",
+		"/home/amiraj/Desktop/Workshop/Website/Main/workshops.html",
+		"/home/amiraj/Desktop/Workshop/Website/Main/contactus.php",
+		"/home/amiraj/Desktop/Workshop/Website/Main/kits.html",
+		"/Users/varindervartak/Desktop/Workshop/Website/Main/contactus.php",
+		"/Users/varindervartak/Desktop/Workshop/Website/Main/index.html",
+		"/Users/varindervartak/Desktop/Workshop/Website/Main/pricing.html",
+		"/Users/varindervartak/Desktop/Workshop/Website/Main/kits.html",
+		"/Users/varindervartak/Desktop/Workshop/Website/Main/catalogue.html",
+		"/Users/varindervartak/Desktop/Website/Main/home.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"../assets/",
+			"appin",
+			"slide",
+			"bg-bot",
+			"contactus.php"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bootstrap/",
+			"contactus.html"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "listing.htm",
+					"settings":
+					{
+						"buffer_size": 1463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

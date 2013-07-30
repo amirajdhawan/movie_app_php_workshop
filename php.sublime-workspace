@@ -20,10 +20,18 @@
 	"buffers":
 	[
 		{
-			"file": "listing.php",
+			"file": "temp/movie_list.php",
 			"settings":
 			{
-				"buffer_size": 1463,
+				"buffer_size": 628,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "temp/login.php",
+			"settings":
+			{
+				"buffer_size": 795,
 				"line_ending": "Unix"
 			}
 		}
@@ -72,6 +80,9 @@
 	},
 	"file_history":
 	[
+		"/opt/lampp/htdocs/listing.php",
+		"/opt/lampp/htdocs/Snapshots/Starter Code/listing.php",
+		"/opt/lampp/htdocs/temp/registration.php",
 		"/opt/lampp/apache2/conf/httpd.conf",
 		"/opt/lampp/htdocs/listing.htm",
 		"/opt/lampp/htdocs/php.sublime-project",
@@ -151,27 +162,54 @@
 			[
 				{
 					"buffer": 0,
-					"file": "listing.php",
+					"file": "temp/movie_list.php",
 					"settings":
 					{
-						"buffer_size": 1463,
+						"buffer_size": 628,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								273,
-								273
+								551,
+								551
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 186.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "temp/login.php",
+					"settings":
+					{
+						"buffer_size": 795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								533,
+								533
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

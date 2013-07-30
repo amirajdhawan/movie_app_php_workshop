@@ -17,8 +17,7 @@ session_start();
 				if($row = mysqli_fetch_array($data))
 				{
 					$_SESSION['id'] = $row["id"];
-					//redirect to any page where u want to.
-					exit;//comment this soon
+					header('Location: http://localhost/temp/movie_list.php');					
 				}
 			}
 		?>

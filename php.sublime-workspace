@@ -24,51 +24,10 @@
 	"buffers":
 	[
 		{
-			"file": "temp/movie_details.php",
-			"settings":
-			{
-				"buffer_size": 1746,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "temp/movie_list.php",
-			"settings":
-			{
-				"buffer_size": 1611,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "temp/logout.php",
-			"settings":
-			{
-				"buffer_size": 97,
-				"line_ending": "Unix",
-				"name": "<?php"
-			}
-		},
-		{
-			"file": "temp/login.php",
-			"settings":
-			{
-				"buffer_size": 1649,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "temp/registration.php",
 			"settings":
 			{
 				"buffer_size": 1607,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/vipul/htdocs/bitnami.css",
-			"settings":
-			{
-				"buffer_size": 2142,
 				"line_ending": "Unix"
 			}
 		}
@@ -117,14 +76,16 @@
 	},
 	"file_history":
 	[
-		"/home/vipul/Documents/hospital manament",
-		"/opt/lampp/htdocs/temp/movie_details.php",
 		"/opt/lampp/htdocs/temp/login.php",
+		"/opt/lampp/htdocs/temp/logout.php",
 		"/opt/lampp/htdocs/temp/movie_list.php",
+		"/opt/lampp/htdocs/temp/movie_details.php",
+		"/home/vipul/htdocs/bitnami.css",
+		"/opt/lampp/htdocs/temp/registration.php",
+		"/home/vipul/Documents/hospital manament",
 		"/opt/lampp/htdocs/Snapshots/Starter Code/listing.php",
 		"/home/vipul/Downloads/index.html",
 		"/opt/lampp/htdocs/listing.php",
-		"/opt/lampp/htdocs/temp/registration.php",
 		"/opt/lampp/apache2/conf/httpd.conf",
 		"/opt/lampp/htdocs/listing.htm",
 		"/opt/lampp/htdocs/php.sublime-project",
@@ -200,150 +161,15 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "temp/movie_details.php",
-					"settings":
-					{
-						"buffer_size": 1746,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1629,
-								1629
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 408.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "temp/movie_list.php",
-					"settings":
-					{
-						"buffer_size": 1611,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1305,
-								1305
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 714.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "temp/logout.php",
-					"settings":
-					{
-						"buffer_size": 97,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								22,
-								22
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<?php",
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "temp/login.php",
-					"settings":
-					{
-						"buffer_size": 1649,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1632,
-								1632
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 247.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "temp/registration.php",
 					"settings":
 					{
 						"buffer_size": 1607,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1607,
-								1607
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/home/vipul/htdocs/bitnami.css",
-					"settings":
-					{
-						"buffer_size": 2142,
 						"regions":
 						{
 						},
@@ -356,7 +182,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
